@@ -1,15 +1,14 @@
-# WimbeldonTicketBooking
-# WimbleChat
+# ChatwithWimble
 
-<img src="Images/Wimblechat.jpg"  width="100%" alt="Dimple Francis">
+<img src="Images/ChatwithWimble.jpg"  width="100%" alt="Dimple Francis">
 
 ## Application Overview
 
-The **Wimblechat**(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024.
+The **ChatwithWimble**(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024.
 
 ## Publication on Medium
 
-[Enhancing AI Chatbots with Graph-based RAG: A Case Study of WimbleChat](https://medium.com/@dimplefrancis/enhancing-ai-chatbots-with-graph-based-rag-a-case-study-of-wimblechat-dd922d46a0cb)
+[Enhancing AI Chatbots with Graph-based RAG: A Case Study of ChatwithWimble](https://medium.com/@dimplefrancis/enhancing-ai-chatbots-with-graph-based-rag-a-case-study-of-ChatwithWimble-dd922d46a0cb)
 
 ## Functionality
 
@@ -18,10 +17,10 @@ The **Wimblechat**(Wimbledon 2024 Chatbot) is an AI-powered application that pro
 - Utilizes natural language processing for user-friendly interactions
 
 ## User Guide
-<img src="Images/Wimblechat1.jpg"  width="100%" alt="Dimple Francis">
+<img src="Images/ChatwithWimble1.jpg"  width="100%" alt="Dimple Francis">
 
 1. Access the application via web browser at: [Wimbledon Chatbot](http://wimbledonchatbot.uksouth.azurecontainer.io:8501)
-2. Click on **'WimbleChat'** to get into the chat interface. It might take a **minute** to load the first time; **try reloading** or **clicking on Home**(The time to load the chat is a limitation).
+2. Click on **'ChatwithWimble'** to get into the chat interface. It might take a **minute** to load the first time; **try reloading** or **clicking on Home**(The time to load the chat is a limitation).
 3. Type questions or prompts in the chat interface. The questions need to be very basic. It sometimes doesn't recognise the question which needs improvment.
 4. Receive instant responses about Wimbledon-related information - Ticket Holders Handbook 2024.
 5. You could toggle between both **models(gpt-3.5-turbo,gpt-4-turbo-preview)** and compare the responses too.
