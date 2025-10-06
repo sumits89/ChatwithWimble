@@ -16,7 +16,7 @@ The **ChatwithWimble**(Wimbledon 2024 Chatbot) is an AI-powered application that
 - Utilizes natural language processing for user-friendly interactions
 
 ## User Guide
-<img src="Images/ChatwithWimble1.jpg"  width="100%" alt="Dimple Francis">
+
 
 1. Access the application via web browser at: [Wimbledon Chatbot](http://wimbledonchatbot.uksouth.azurecontainer.io:8501)
 2. Click on **'ChatwithWimble'** to get into the chat interface. It might take a **minute** to load the first time; **try reloading** or **clicking on Home**(The time to load the chat is a limitation).
