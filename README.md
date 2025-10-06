@@ -1,6 +1,5 @@
 # ChatwithWimble
 
-<img src="Images/ChatwithWimble.jpg"  width="100%" alt="Dimple Francis">
 
 ## Application Overview
 
@@ -25,7 +24,6 @@ The **ChatwithWimble**(Wimbledon 2024 Chatbot) is an AI-powered application that
 4. Receive instant responses about Wimbledon-related information - Ticket Holders Handbook 2024.
 5. You could toggle between both **models(gpt-3.5-turbo,gpt-4-turbo-preview)** and compare the responses too.
 
-<img src="Images/combined_image.jpg"  width="100%" alt="Dimple Francis">
 
 ## Tech Stack
 
@@ -55,7 +53,6 @@ The **ChatwithWimble**(Wimbledon 2024 Chatbot) is an AI-powered application that
 
 ## Advantages of RAG with Graphs
 
-<img src="Images/graph.jpg"  width="100%" alt="Dimple Francis">
 
 - **Enhanced Contextual Understanding:** Graph databases like Neo4j excel at capturing and querying complex relationships, providing a richer context for the generative model.
 - **Scalability:** Neo4j can handle large volumes of interconnected data, making it suitable for applications requiring extensive knowledge bases.
